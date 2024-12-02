@@ -1,0 +1,19 @@
+{
+  "name": "ot-hw",
+  "version": "1.0.0",
+  "description": "my homework project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/furtivite/ot-hw.git"
+  },
+  "author": "Egor Levchenko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/furtivite/ot-hw/issues"
+  },
+  "homepage": "https://github.com/furtivite/ot-hw#readme"
+}
