@@ -4,6 +4,9 @@
   "description": "my homework project",
   "main": "index.js",
   "scripts": {
+    "build": "echo \"App is builded for production\"",
+    "dev": "echo \"App is running on dev server\"",
+    "start": "npm run dev",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
